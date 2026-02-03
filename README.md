@@ -104,8 +104,9 @@ hr-attrition-prediction/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-## ⚙️ Methodology
 ```
+## ⚙️ Methodology
+
 ### 1) Data Preprocessing
 - Missing value handling  
 - Encoding categorical variables  
