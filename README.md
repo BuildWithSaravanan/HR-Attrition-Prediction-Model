@@ -146,7 +146,7 @@ The model generates:
 
 ### 1) Clone Repository
 ```bash
-git clone https://github.com/your-username/hr-attrition-prediction.git
+git clone https://github.com/BuildWithSaravanan/hr-attrition-prediction-model.git
 cd hr-attrition-prediction
 ```
 ### 2) Create Virtual Environment (Recommended)
