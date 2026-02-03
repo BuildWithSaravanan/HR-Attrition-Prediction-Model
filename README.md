@@ -1,6 +1,6 @@
 # HR Attrition Prediction using Machine Learning (XGBoost)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.14-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-GradientBoosting-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -46,7 +46,7 @@ Evaluation metrics include:
 
 ## 🛠 Tech Stack
 
-- **Python 3.x**
+- **Python 3.14.3**
 - **Pandas, NumPy**
 - **Scikit-learn**
 - **XGBoost**
